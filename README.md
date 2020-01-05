@@ -14,8 +14,8 @@ setelah itu kode perintah :
 
 git clone https://github.com/doxz77/goreg
 
-cd gofood
+cd goreg
 
 Terus copy script ini dan paste di termux setiap mau regis
 
-php tembak.php
+php gas.php
